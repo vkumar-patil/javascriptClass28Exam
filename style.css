@@ -1,0 +1,37 @@
+.navbar{
+    height: 80px;
+    background-color: antiquewhite;
+
+    /* position: relative; */
+}
+li{
+    display: inline;
+    margin: 20px;
+    /* position: absolute; */
+}
+.content{
+    display: flex;
+    height: 300px;
+    width:100%;
+    border: solid black 2px;
+   
+    
+    background-color: rgb(234, 244, 244);
+    
+}
+.col{
+background-color: aqua;
+    margin: 10px;
+    width: 200px;
+}
+.headertext{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(110, 226, 43);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(238, 201, 153);
+    height: 100px;
+}
+#btn{
+    margin-top: 20px;
+}
